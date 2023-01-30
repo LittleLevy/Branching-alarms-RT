@@ -1,0 +1,13 @@
+Name: Model
+Type: FolderType
+Children:
+- Name: Variable1
+  Id: g=f115cafd7ca5ced80faaa68513a5c550
+  Type: BaseDataVariableType
+  DataType: Boolean
+  Value: false
+- Name: Variable2
+  Id: g=59e04e7e8a7ae3447fa56cb47037abce
+  Type: BaseDataVariableType
+  DataType: Int32
+  Value: 0
